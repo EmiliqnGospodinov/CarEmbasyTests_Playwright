@@ -19,6 +19,7 @@ This is experimental repo for trying some playwright functionalities like:
        git clone https://github.com/your-username/your-playwright-repo.git
        cd your-playwright-repo
 ```
+`
     - Install dependencies and Playwright browsers:
 ```sh
 npm install
@@ -34,12 +35,13 @@ npx playwright install
 ```sh
 npx playwright test -g "Successful login" --project="Google Chrome"
 ```
+`
         4. *Optional* Update snapshots for some of the tests:
 ```sh
 npx playwright test --update-snapshots
 ```
         
-4. To Run All Tests:
+5. To Run All Tests:
 ```sh
 npx playwright test
 ```
