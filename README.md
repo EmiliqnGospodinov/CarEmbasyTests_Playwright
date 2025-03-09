@@ -1,6 +1,6 @@
 This is experimental repo for trying some playwright functionalities like:
 - Playwright devices configuration(2 browsers + 1 mobile device);
-- Recording failed test cases;
+- Recording(screenshots + video) failed test cases;
 - POM + Fixtures;
 - Different Assertions(Snapshots of web page, list of elements to be visible, etc.);
 - Storing Authentication information
